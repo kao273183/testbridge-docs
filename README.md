@@ -4,6 +4,8 @@ QA 工程師的繁中社群 + 測試管理工具。
 
 **網站**：[testbridge.chenjundigital.com](https://testbridge.chenjundigital.com)
 
+![TestBridge 功能總覽](screenshots/feature-overview.jpg)
+
 ---
 
 ## 這是什麼
